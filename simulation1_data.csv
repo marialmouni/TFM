@@ -1,2 +1,0 @@
-symbols,start_date,initial_capital,N_episodes,batch_size,alpha_1,alpha_2,beta_1,beta_2
-"['AAPL', 'GOOGL', 'MSFT']","2024-01-01",10,500,64,0.2,0.1,0.3,0.5
